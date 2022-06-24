@@ -78,11 +78,11 @@ code runs in 0.07 seconds.
 The pop-up messages showing the elapsed run time for the script are saved as VBA_Challenge_2017.png and 
 VBA_Challenge_2018.png and shown below.
 
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/105535250/175618227-04906852-bbd4-4b8e-ac48-c54e94934e9d.png)
+
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/105535250/175618316-28d07bd5-6c39-4383-972e-7d314dc9e0bd.png)
 
 
-![image_VBA_Challenge_2017_1](VBA_Challenge_2017.png)
-
-![image_VBA_Challenge_2018_1](VBA_Challenge_2018.png)
 ## Summary
 
 ### Advantages and Disadvantage of Refactoring Code
