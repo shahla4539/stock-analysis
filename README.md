@@ -95,7 +95,7 @@ The pros of creating the original code was that it was a smaller data set and al
 However, the con is that it would take longer to run.  The pro of the refractored VBA script is that it ran faster
 and could be re-applied to other larger data sets with some tweaking.  The con was keeping the code organized to 
 close loops properly.  Small errors can casue the whole scrpit to fail and finding and understanding these errors 
-can be cumbersome and time consuming. 
+can be cumbersome and time consuming.
 
 
 
